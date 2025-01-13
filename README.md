@@ -1,2 +1,2 @@
-# dmg_tutorials
-A tutorials for Density Matrix Renormalization Group
+# dmrg_tutorials
+A tutorial for Density Matrix Renormalization Group
